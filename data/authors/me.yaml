@@ -25,14 +25,14 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:raphaeltakyi@gmail.com
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnson
+    url: https://github.com/raphaeltakyi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
+    url: https://www.linkedin.com/in/raphael-b-takyi/
   - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://x.com/most_demigod
 
 interests:
   - Web Development
@@ -45,9 +45,8 @@ education:
     institution: Université Paris Cité, France
     start: 2023-10-01
     end: 2026-09-30
-    summary: |
-      Conducting advanced neuroimaging analyses on structural MRIs in stroke patients using SPM and FSL (voxel-based morphometry (VBM), voxel-based lesion symptom mapping (VLSM), voxel-based disconnectome mapping (VDSM)), and statistical analyses using Python and R.
-      Developing biomarkers for stroke recovery using MRI-based brain age models.
+    thesis: |
+      Brain age and its relation to brain connectivity and upper limb motor recovery after stroke.
     button:
       text: View Project
       url: https://github.com/alexjohnson/senior-project
@@ -57,18 +56,18 @@ education:
     institution: Université Paris Cité, France
     start: 2022-09-05
     end: 2023-07-30
-    summary: |
-      Successfully designed and implemented an automated MRI preprocessing and analysis pipeline using SPM12 and FSL, improving analysis efficiency for stroke recovery studies
+    thesis: |
+      Longitudinal study of MRI-derived brain age in stroke and its relation to manual dexterity outcome.
     button:
       text: View Project
       url: https://github.com/alexjohnson/senior-project
       icon: brands/github
 
-    - degree: Bachelor of Medicine and Bachelor of Surgery
+  - degree: Bachelor of Medicine and Bachelor of Surgery
     institution: University of Cape Coast, Ghana
     start: 2022-09-05
     end: 2023-07-30
-    summary: |
+    thesis: |
       Knowledge about Risk Factors, Signs and Symptoms, Complications and Prevention of Diabetes among adults in the Cape Coast Metropolis in Ghana
     button:
       text: View Project
