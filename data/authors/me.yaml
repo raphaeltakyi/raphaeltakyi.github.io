@@ -41,13 +41,35 @@ interests:
   - Developer Experience
 
 education:
-  - degree: B.S. Computer Science
-    institution: State University
-    start: 2015-09-01
-    end: 2019-05-31
+  - degree: PhD Neuroscience (Neuroimaging)
+    institution: Université Paris Cité, France
+    start: 2023-10-01
+    end: 2026-09-30
     summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
+      Conducting advanced neuroimaging analyses on structural MRIs in stroke patients using SPM and FSL (voxel-based morphometry (VBM), voxel-based lesion symptom mapping (VLSM), voxel-based disconnectome mapping (VDSM)), and statistical analyses using Python and R.
+      Developing biomarkers for stroke recovery using MRI-based brain age models.
+    button:
+      text: View Project
+      url: https://github.com/alexjohnson/senior-project
+      icon: brands/github
+
+  - degree: MSc Bioengineering and Innovation in Neuroscience
+    institution: Université Paris Cité, France
+    start: 2022-09-05
+    end: 2023-07-30
+    summary: |
+      Successfully designed and implemented an automated MRI preprocessing and analysis pipeline using SPM12 and FSL, improving analysis efficiency for stroke recovery studies
+    button:
+      text: View Project
+      url: https://github.com/alexjohnson/senior-project
+      icon: brands/github
+
+    - degree: Bachelor of Medicine and Bachelor of Surgery
+    institution: University of Cape Coast, Ghana
+    start: 2022-09-05
+    end: 2023-07-30
+    summary: |
+      Knowledge about Risk Factors, Signs and Symptoms, Complications and Prevention of Diabetes among adults in the Cape Coast Metropolis in Ghana
     button:
       text: View Project
       url: https://github.com/alexjohnson/senior-project
