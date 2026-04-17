@@ -7,12 +7,9 @@ name:
   family: Takyi
 postnominals: []
 status:
-  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student, 
 bio: |
-  Physician-scientist with a strong foundation in both patient care and biomedical science research, 
-  currently completing my PhD at the Institute of Psychiatry and Neuroscience of Paris. 
+  Physician-scientist with a strong foundation in both patient care and biomedical science research, currently completing my PhD at the Institute of Psychiatry and Neuroscience of Paris. 
   Experienced in academic teaching and deeply committed to impacting the next generation through knowledge-sharing. 
   Passionate about advancing the field of neurology by using advanced neuroimaging to improve patient care especially in neurodegenerative diseases and stroke. 
   Proficient in neuroimaging techniques (SPM, FSL, FreeSurfer), Python and R programming, and statistical modeling, 
@@ -65,8 +62,8 @@ education:
 
   - degree: Bachelor of Medicine and Bachelor of Surgery
     institution: University of Cape Coast, Ghana
-    start: 2022-09-05
-    end: 2023-07-30
+    start: 2011-09-01
+    end: 2017-07-30
     thesis: |
       Knowledge about Risk Factors, Signs and Symptoms, Complications and Prevention of Diabetes among adults in the Cape Coast Metropolis in Ghana
     button:
@@ -75,28 +72,26 @@ education:
       icon: brands/github
 
 experience:
-  - role: Senior Software Engineer
-    org: Tech Corp
-    start: 2023-01-01
+  - role: Doctoral Student   
+    org: Institute of Psychiatry and Neuroscience of Paris, France
+    start: 2023-10-01
     summary: |
-      Lead development of microservices architecture serving 1M+ users.
-      Improved API response time by 40% through optimization.
-      Mentored team of 5 junior developers.
-  - role: Full-Stack Developer
-    org: Startup Inc
-    start: 2021-06-01
-    end: 2022-12-31
+      Conducting advanced neuroimaging analyses on structural MRIs in stroke patients using SPM and FSL (voxel-based morphometry (VBM), voxel-based lesion symptom mapping (VLSM), voxel-based disconnectome mapping (VDSM)), and statistical analyses using Python and R..
+      Developing biomarkers for stroke recovery using MRI-based brain age models.
+  - role: Clinical Contributor   
+    org: Nucleate Global Virtual Activator Program, Remote, France
+    start: 2024-11-01
+    end: 2025-06-30
     summary: |
-      Built and deployed 3 production applications from scratch.
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-      Led migration from monolith to microservices architecture.
-  - role: Junior Developer
-    org: Web Agency
-    start: 2020-01-01
-    end: 2021-05-31
+      Contributed to development of nanoswitch diagnostics for neurodegenerative diseases.
+      Collaborated with engineers and clinicians on cross-disciplinary research.
+      Supported design of healthcare innovations targeting early diagnosis.
+  - role: Master’s Research Engineer Internship
+    org: Institute of Psychiatry and Neuroscience of Paris, France
+    start: 2023-02-01
+    end: 2023-06-30
     summary: |
-      Developed client websites using React and modern web technologies.
-      Participated in code reviews and agile ceremonies.
+      Successfully designed and implemented an automated MRI preprocessing and analysis pipeline using SPM12 and FSL, improving analysis efficiency for stroke recovery studies.
 
 skills:
   - name: Development
