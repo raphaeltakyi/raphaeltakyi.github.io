@@ -2,17 +2,22 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Raphael B. Takyi
+  given: Raphael
+  family: Takyi
 postnominals: []
 status:
   icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
 role: Full-Stack Developer
 email: alex@example.com
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  Physician-scientist with a strong foundation in both patient care and biomedical science research, 
+  currently completing my PhD at the Institute of Psychiatry and Neuroscience of Paris. 
+  Experienced in academic teaching and deeply committed to impacting the next generation through knowledge-sharing. 
+  Passionate about advancing the field of neurology by using advanced neuroimaging to improve patient care especially in neurodegenerative diseases and stroke. 
+  Proficient in neuroimaging techniques (SPM, FSL, FreeSurfer), Python and R programming, and statistical modeling, 
+  with a focus on improving diagnostics and outcomes in neurological disorders. 
+  Strong track record in multi-disciplinary collaboration, scientific communication, and innovative clinical leadership.
 
 affiliations:
   - name: Tech Corp
